@@ -1,0 +1,12 @@
+Develop a dashboard prototype in Figma displaying performance criteria for a
+cellular system.
+Aim: To develop a dashboard prototype displaying the performance criteria of a cellular system using Figma.
+Procedure:
+1. Create a dashboard frame in Figma.
+2. Add cards for signal strength, network speed, latency, and call success rate.
+3. Include graphs and charts to display performance.
+4. Add status indicators using different colors.
+5. Arrange the elements clearly for easy monitoring.
+Output Design: A dashboard showing cellular network performance metrics, graphs, and status indicators.
+
+Result: A cellular system performance dashboard prototype was created successfully using Figma.
