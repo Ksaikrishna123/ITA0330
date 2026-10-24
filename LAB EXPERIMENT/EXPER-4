@@ -1,0 +1,12 @@
+Create a visual representation in Figma highlighting the key elements of mobile
+network protocol stacks.
+Aim: To create a visual representation of the key elements of mobile network protocol stacks using Figma.
+Procedure:
+1. Create a new design file in Figma.
+2. Draw separate layers for the protocol stack.
+3. Add layers such as Physical, Data Link, Network, Transport, and Application.
+4. Arrange the layers vertically.
+5. Use different colors and labels to explain each layer.
+Output Design: A layered diagram showing the major protocol layers and their functions in mobile communication.
+
+Result: A visual representation of mobile network protocol stacks was created successfully.
