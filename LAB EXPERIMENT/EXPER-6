@@ -1,0 +1,12 @@
+Use Figma to simulate a handoff scenario in a mobile network and visualize the
+process
+Aim: To simulate a handoff scenario in a mobile network and visualize the process using Figma.
+Procedure:
+1. Create a new design file in Figma.
+2. Draw two adjacent cells with Base Station 1 and Base Station 2.
+3. Place a mobile station inside the first cell.
+4. Use arrows to show the mobile station moving toward the second cell.
+5. Create prototype interactions to demonstrate the transfer of connection.
+Output Design: A diagram showing a mobile station moving from one cell to another while maintaining an ongoing call.
+
+Result: The handoff process between two base stations was visualized successfully using Figma.
